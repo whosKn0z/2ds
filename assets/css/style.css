@@ -98,3 +98,7 @@ p,
 .social-logo:hover {
   transform: scale(1.5);
 }
+
+img {
+  border-radius: 50%;
+}
