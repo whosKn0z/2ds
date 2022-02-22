@@ -62,7 +62,7 @@ function startMainTyping() {
 }
 
 function switchScreen() {
-  document.title = 'amplitudes.me | home';
+  document.title = 'm1ko.xyz | home';
 
   $('.intro').fadeOut(1000, function () {
     $('.bg-image').fadeIn(1000);
@@ -71,7 +71,7 @@ function switchScreen() {
     });
   });
 
-  ['background', 'rain'].forEach(function (audioName) {
+  ['rain'].forEach(function (audioName) {
     let fullPath = `assets/audio/${audioName}.mp3`;
 
     let audioElement = document.createElement('audio');
