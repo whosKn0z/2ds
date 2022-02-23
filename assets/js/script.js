@@ -37,7 +37,7 @@ function startIntroTyping() {
 function typerStartTyping(typer) {
   typer.reset();
 
-  let text = ['gamer', 'i think', 'idk', 'maybe', 'kys'];
+  let text = ['i love lean ', 'i think', 'idk', 'maybe', 'kys'];
 
   text.forEach(function (language, index) {
     typer.move(null);
