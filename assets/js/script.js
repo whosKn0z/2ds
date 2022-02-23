@@ -64,7 +64,7 @@ function startMainTyping() {
 }
 
 function switchScreen() {
-  document.title = 'm1ko.xyz | home';
+  document.title = 'ahegao.bar | home';
 
   $('.intro').fadeOut(1000, function () {
     $('.bg-image').fadeIn(1000);
