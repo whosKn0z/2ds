@@ -1,3 +1,5 @@
+console.log('miko2swaggy');
+
 let mobile = 'ontouchstart' in document.documentElement;
 
 let switchAllowed = false;
