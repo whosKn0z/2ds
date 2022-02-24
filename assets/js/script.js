@@ -39,7 +39,7 @@ function startIntroTyping() {
 function typerStartTyping(typer) {
   typer.reset();
 
-  let text = ['i love lean &#128156;', 'i think', 'idk', 'maybe', 'kys'];
+  let text = ['i love lean &#128156;', 'memphis rap is swag', 'you should vist my other site m1ko.xyz', 'maybe', 'kys'];
 
   text.forEach(function (language, index) {
     typer.move(null);
